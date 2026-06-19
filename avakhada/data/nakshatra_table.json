@@ -1,0 +1,326 @@
+{
+    "Ashwini": {
+        "yoni": "Ashwa",
+        "gan": "Dev",
+        "nadi": "Adi",
+        "nakshatra_lord": "Ketu",
+        "name_alphabet": [
+            "Chu",
+            "Che",
+            "Cho",
+            "La"
+        ]
+    },
+    "Bharani": {
+        "yoni": "Gaja",
+        "gan": "Manushya",
+        "nadi": "Madhya",
+        "nakshatra_lord": "Venus",
+        "name_alphabet": [
+            "Lee",
+            "Lu",
+            "Le",
+            "Lo"
+        ]
+    },
+    "Krittika": {
+        "yoni": "Mesha",
+        "gan": "Rakshas",
+        "nadi": "Antya",
+        "nakshatra_lord": "Sun",
+        "name_alphabet": [
+            "A",
+            "Ee",
+            "U",
+            "Ae"
+        ]
+    },
+    "Rohini": {
+        "yoni": "Sarpa",
+        "gan": "Manushya",
+        "nadi": "Antya",
+        "nakshatra_lord": "Moon",
+        "name_alphabet": [
+            "O",
+            "Va",
+            "Vi",
+            "Vu"
+        ]
+    },
+    "Mrigashira": {
+        "yoni": "Sarpa",
+        "gan": "Dev",
+        "nadi": "Madhya",
+        "nakshatra_lord": "Mars",
+        "name_alphabet": [
+            "Ve",
+            "Vo",
+            "Ka",
+            "Ki"
+        ]
+    },
+    "Ardra": {
+        "yoni": "Shwan",
+        "gan": "Manushya",
+        "nadi": "Adi",
+        "nakshatra_lord": "Rahu",
+        "name_alphabet": [
+            "Ku",
+            "Gha",
+            "Nga",
+            "Cha"
+        ]
+    },
+    "Punarvasu": {
+        "yoni": "Marjaar",
+        "gan": "Dev",
+        "nadi": "Adi",
+        "nakshatra_lord": "Jupiter",
+        "name_alphabet": [
+            "Ke",
+            "Ko",
+            "Ha",
+            "Hi"
+        ]
+    },
+    "Pushya": {
+        "yoni": "Mesha",
+        "gan": "Dev",
+        "nadi": "Madhya",
+        "nakshatra_lord": "Saturn",
+        "name_alphabet": [
+            "Hu",
+            "He",
+            "Ho",
+            "Da"
+        ]
+    },
+    "Ashlesha": {
+        "yoni": "Marjaar",
+        "gan": "Rakshas",
+        "nadi": "Antya",
+        "nakshatra_lord": "Mercury",
+        "name_alphabet": [
+            "Di",
+            "Du",
+            "De",
+            "Do"
+        ]
+    },
+    "Magha": {
+        "yoni": "Mushak",
+        "gan": "Rakshas",
+        "nadi": "Antya",
+        "nakshatra_lord": "Ketu",
+        "name_alphabet": [
+            "Ma",
+            "Mi",
+            "Mu",
+            "Me"
+        ]
+    },
+    "Purva Phalguni": {
+        "yoni": "Mushak",
+        "gan": "Manushya",
+        "nadi": "Madhya",
+        "nakshatra_lord": "Venus",
+        "name_alphabet": [
+            "Mo",
+            "Ta",
+            "Ti",
+            "Tu"
+        ]
+    },
+    "Uttara Phalguni": {
+        "yoni": "Gau",
+        "gan": "Manushya",
+        "nadi": "Adi",
+        "nakshatra_lord": "Sun",
+        "name_alphabet": [
+            "Te",
+            "To",
+            "Pa",
+            "Pi"
+        ]
+    },
+    "Hasta": {
+        "yoni": "Mahisha",
+        "gan": "Dev",
+        "nadi": "Adi",
+        "nakshatra_lord": "Moon",
+        "name_alphabet": [
+            "Pu",
+            "Sha",
+            "Na",
+            "Tha"
+        ]
+    },
+    "Chitra": {
+        "yoni": "Vyaghra",
+        "gan": "Rakshas",
+        "nadi": "Madhya",
+        "nakshatra_lord": "Mars",
+        "name_alphabet": [
+            "Pe",
+            "Po",
+            "Ra",
+            "Ri"
+        ]
+    },
+    "Swati": {
+        "yoni": "Mahisha",
+        "gan": "Dev",
+        "nadi": "Antya",
+        "nakshatra_lord": "Rahu",
+        "name_alphabet": [
+            "Ru",
+            "Re",
+            "Ro",
+            "Ta"
+        ]
+    },
+    "Vishakha": {
+        "yoni": "Vyaghra",
+        "gan": "Rakshas",
+        "nadi": "Antya",
+        "nakshatra_lord": "Jupiter",
+        "name_alphabet": [
+            "Ti",
+            "Tu",
+            "Te",
+            "To"
+        ]
+    },
+    "Anuradha": {
+        "yoni": "Mrig",
+        "gan": "Dev",
+        "nadi": "Madhya",
+        "nakshatra_lord": "Saturn",
+        "name_alphabet": [
+            "Na",
+            "Ni",
+            "Nu",
+            "Ne"
+        ]
+    },
+    "Jyeshtha": {
+        "yoni": "Mrig",
+        "gan": "Rakshas",
+        "nadi": "Adi",
+        "nakshatra_lord": "Mercury",
+        "name_alphabet": [
+            "No",
+            "Ya",
+            "Yi",
+            "Yu"
+        ]
+    },
+    "Mula": {
+        "yoni": "Shwan",
+        "gan": "Rakshas",
+        "nadi": "Adi",
+        "nakshatra_lord": "Ketu",
+        "name_alphabet": [
+            "Ye",
+            "Yo",
+            "Ba",
+            "Bi"
+        ]
+    },
+    "Purva Ashadha": {
+        "yoni": "Vanara",
+        "gan": "Manushya",
+        "nadi": "Madhya",
+        "nakshatra_lord": "Venus",
+        "name_alphabet": [
+            "Bu",
+            "Da",
+            "Bha",
+            "Dha"
+        ]
+    },
+    "Uttara Ashadha": {
+        "yoni": "Nakula",
+        "gan": "Manushya",
+        "nadi": "Antya",
+        "nakshatra_lord": "Sun",
+        "name_alphabet": [
+            "Be",
+            "Bo",
+            "Ja",
+            "Ji"
+        ]
+    },
+    "Shravana": {
+        "yoni": "Vanara",
+        "gan": "Dev",
+        "nadi": "Antya",
+        "nakshatra_lord": "Moon",
+        "name_alphabet": [
+            "Ju",
+            "Je",
+            "Jo",
+            "Gha"
+        ]
+    },
+    "Dhanishta": {
+        "yoni": "Singh",
+        "gan": "Rakshas",
+        "nadi": "Madhya",
+        "nakshatra_lord": "Mars",
+        "name_alphabet": [
+            "Ga",
+            "Gi",
+            "Gu",
+            "Ge"
+        ]
+    },
+    "Shatabhisha": {
+        "yoni": "Ashwa",
+        "gan": "Rakshas",
+        "nadi": "Adi",
+        "nakshatra_lord": "Rahu",
+        "name_alphabet": [
+            "Go",
+            "Sa",
+            "Si",
+            "Su"
+        ]
+    },
+    "Purva Bhadrapada": {
+        "yoni": "Singh",
+        "gan": "Manushya",
+        "nadi": "Adi",
+        "nakshatra_lord": "Jupiter",
+        "name_alphabet": [
+            "Se",
+            "So",
+            "Da",
+            "Di"
+        ]
+    },
+    "Uttara Bhadrapada": {
+        "yoni": "Gau",
+        "gan": "Manushya",
+        "nadi": "Madhya",
+        "nakshatra_lord": "Saturn",
+        "name_alphabet": [
+            "Du",
+            "Tha",
+            "Jha",
+            "Na"
+        ]
+    },
+    "Revati": {
+        "yoni": "Gaja",
+        "gan": "Dev",
+        "nadi": "Antya",
+        "nakshatra_lord": "Mercury",
+        "name_alphabet": [
+            "De",
+            "Do",
+            "Cha",
+            "Chi"
+        ]
+    }
+}

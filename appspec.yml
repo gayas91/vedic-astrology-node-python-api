@@ -1,0 +1,16 @@
+version: 0.0
+os: linux
+files:
+  - source: /
+    destination: /home/ubuntu/astro/realAstroVedic
+
+hooks:
+  BeforeInstall:
+    - location: scripts/installpkgs.sh
+      timeout: 300
+      runas: ubuntu
+
+  ApplicationStart:
+    - location: scripts/appstart.sh
+      timeout: 300
+      runas: ubuntu
